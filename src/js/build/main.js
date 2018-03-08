@@ -2,7 +2,7 @@ require.config({
   baseUrl: 'src/js',
   paths: {
       'jQuery': 'libs/jquery',
-      'fullpage': 'comp/fullpage',
+      'fullpage': 'comp/fullPage',
       'materialize': 'comp/materialize.min'
 
   },
